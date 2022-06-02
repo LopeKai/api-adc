@@ -14,7 +14,7 @@ app.use(express.json())
 app.use(cors())
 
 app.get('/hello_world', (req, res) => {
-    res.send('Oi amigooooo!')
+    res.send('Hello World!')
 })
 
 app.post('/create', (req, res) => {
