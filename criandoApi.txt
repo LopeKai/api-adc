@@ -1,0 +1,9 @@
+/*----------- CREATE API -----------*/
+
+CRUD -> 'C'reate 'R'ead 'U'pdate 'D'elete - 
+
+express -> ele vai criar um servidor pra gente.
+
+require -> é uma palavra reservado do node, ele serve praticamente para importa alguma dependencias
+
+rota -> Cada letra do CRUD vai ser um rota.
